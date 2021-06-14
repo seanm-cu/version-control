@@ -1,0 +1,12 @@
+jovyan@jupyter-semu2996:~/Software_Tools/Lab_4/version-control$ git pull origin master
+From https://github.com/seanm-cu/version-control
+ * branch            master     -> FETCH_HEAD
+Auto-merging README
+Merge made by the 'recursive' strategy.
+ README | 1 +
+ 1 file changed, 1 insertion(+)
+
+
+Name:  Sean Mulligan
+Prof.   Nelson 
+Lab_4 
